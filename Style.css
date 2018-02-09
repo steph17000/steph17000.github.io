@@ -1,0 +1,65 @@
+h1{
+	color: white;
+background-color: red;
+}
+h2{
+	color: blue;
+	font-family: 'sharp', cursive;
+}
+body{
+	color: black;
+	background: white;
+	text-align: center;
+}
+img{
+	width: 510px;
+	padding: 20px;
+	background: blue;
+
+}
+
+div{
+	padding: 10px;
+	margin: 38px;
+	border: solid 10px blue;
+}
+
+.cadre{ 
+margin: 100px;
+border: solid 4px #0D3E22;
+width: 20px;
+background-color: white;
+padding: 8px;
+display: flex;
+justify-content: right;
+}
+
+.yellowsquare {
+	background-color: white
+	width: 50px;
+	height: 50px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+
+}
+
+.bluesquare {
+	background-color: blue
+	width: 30px;
+	height: 20px;
+	margin: 70px;
+
+}
+
+.bluesquarre {
+	background-color:
+	width: 15px;
+	height: 5px;
+}
+
+.bluesquarrre {
+	background-color: blue;
+	width: 10px;
+	height: 2px;
+}
